@@ -1,6 +1,3 @@
-
-# 🚀 StreamLogX
-
 > **Real-Time CDC-Based Log Monitoring & Observability Platform**
 
 StreamLogX is a real-time log monitoring platform that demonstrates an end-to-end observability pipeline using **Spring Boot**, **PostgreSQL**, **Debezium**, **Apache Kafka**, **Elasticsearch**, and **Grafana**.
